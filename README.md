@@ -12,7 +12,7 @@
 class Sagaar:
     name        = "Sagaar S"
     location    = "Chennai, India 🇮🇳"
-    degree      = "B.Tech – Artificial Intelligence & Data Science"
+    degree      = "B.Tech – Artificial Intelligence &amp; Data Science"
     college     = "Meenakshi Sundararajan Engineering College"
     graduation  = 2028
 
@@ -39,12 +39,12 @@ class Sagaar:
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+**Languages &amp; Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-**Data & Analytics**
+**Data &amp; Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -56,7 +56,7 @@ class Sagaar:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Hardware & IoT**
+**Hardware &amp; IoT**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
@@ -173,7 +173,7 @@ class Sagaar:
 
 | Degree | Institution | Year | Status |
 |---|---|---|---|
-| B.Tech – Artificial Intelligence & Data Science | Meenakshi Sundararajan Engineering College, Chennai | 2024 – 2028 | 🟢 Pursuing |
+| B.Tech – Artificial Intelligence &amp; Data Science | Meenakshi Sundararajan Engineering College, Chennai | 2024 – 2028 | 🟢 Pursuing |
 
 </div>
 
