@@ -1,6 +1,6 @@
 # Hi 👋, I'm SAGAAR S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAGAAR%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20%26%20Data%20Science%20Student&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SAGAAR%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%20%26%20Data%20Science%20Student&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
@@ -54,26 +54,28 @@ me = Sagaar()
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
+---
+
 ## 📚 Frameworks & Libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Scikit\_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 
-## ☁️ Cloud & DevOps
+---
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-## 🗄️ Databases
+## 🗄️ Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
+---
+
 ## 🛠️ Tools
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
@@ -124,12 +126,12 @@ me = Sagaar()
 <details>
 <summary><b>Empower Software Hub — Data Science Intern</b></summary>
 
-> Python • Machine Learning • Data Science
+<br>
 
-* Assisted in building machine-learning workflows
+* Assisted in building machine learning workflows
 * Evaluated model performance
 * Worked on preprocessing and analysis tasks
-* Improved understanding of real-world AI systems
+* Improved understanding of AI development workflows
 
 </details>
 
@@ -138,12 +140,12 @@ me = Sagaar()
 <details>
 <summary><b>Novi Tech — Data Analysis Intern</b></summary>
 
-> Python • Power BI • Data Analytics
+<br>
 
-* Performed real-time data analysis tasks
+* Performed real-time data analysis
 * Prepared datasets for visualization
 * Generated statistical insights
-* Worked on dashboard reporting systems
+* Worked with dashboard reporting systems
 
 </details>
 
@@ -153,27 +155,24 @@ me = Sagaar()
 
 <div align="center">
 
-| Project                                         | Stack                    | Highlights                                                                                               |
-| ----------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------------- |
-| **TILA – Voice-Enabled Reception Robot**        | ESP32, Arduino           | Built an automated receptionist robot capable of interacting with visitors using voice commands          |
-| **European Sales Dashboard**                    | Excel, Power BI          | Analyzed sales trends and generated business insights using dashboards and pivot tables                  |
-| **ML-Based Fraud Transaction Detection System** | Python, Machine Learning | Developed a privacy-aware fraud detection system using machine learning libraries                        |
-| **Mall Customer Data Cleaning Project**         | Python, Pandas           | Cleaned and preprocessed datasets by handling missing values, duplicates, and formatting inconsistencies |
+| Project                                     | Stack                    | Description                                                                 |
+| ------------------------------------------- | ------------------------ | --------------------------------------------------------------------------- |
+| TILA – Voice-Enabled Reception Robot        | ESP32, Arduino           | Automated receptionist robot interacting with visitors using voice commands |
+| European Sales Dashboard                    | Excel, Power BI          | Analyzed sales trends and generated business insights                       |
+| ML-Based Fraud Transaction Detection System | Python, Machine Learning | Built a privacy-aware fraud detection system                                |
+| Mall Customer Data Cleaning Project         | Python, Pandas           | Cleaned and preprocessed datasets for analysis                              |
 
 </div>
 
 ---
 
-# 🏅 Certifications & Achievements
+# 🏅 Certifications
 
 <div align="center">
 
-| 🏆 Achievement        | 📌 Details                                                |
-| --------------------- | --------------------------------------------------------- |
-| Udemy Certification   | Data Analytics using Excel, Power BI, and Python          |
-| AI Projects           | Built multiple AI and ML-based projects                   |
-| Dashboard Development | Created business dashboards using Excel and Power BI      |
-| Data Cleaning         | Developed preprocessing workflows using Python and Pandas |
+| Certification                                    | Platform |
+| ------------------------------------------------ | -------- |
+| Data Analytics using Excel, Power BI, and Python | Udemy    |
 
 </div>
 
@@ -183,9 +182,9 @@ me = Sagaar()
 
 <div align="center">
 
-| Degree                                          | Institution                                         | Year          |
-| ----------------------------------------------- | --------------------------------------------------- | ------------- |
-| B.Tech – Artificial Intelligence & Data Science | Meenakshi Sundararajan Engineering College, Chennai | Expected 2028 |
+| Degree                                          | Institution                                | Graduation |
+| ----------------------------------------------- | ------------------------------------------ | ---------- |
+| B.Tech – Artificial Intelligence & Data Science | Meenakshi Sundararajan Engineering College | 2028       |
 
 </div>
 
@@ -194,10 +193,10 @@ me = Sagaar()
 # 🌱 Currently Learning
 
 ```text
-🧠 Machine Learning → Model Evaluation, Classification, Regression
-📊 Data Analytics → Dashboarding, Insights, Visualization
+🧠 Machine Learning → Classification, Regression, Model Evaluation
+📊 Data Analytics → Dashboarding and Visualization
 🤖 Deep Learning → Neural Networks and TensorFlow
-⚡ Power BI → Interactive Dashboards and Reporting
+⚡ Power BI → Interactive Dashboard Design
 🐍 Python → Advanced Pandas and Data Processing
 ```
 
