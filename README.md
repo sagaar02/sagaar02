@@ -161,7 +161,7 @@ class Sagaar:
 | 🤖 | **IoT Innovation** | Built TILA, a voice-enabled reception robot using ESP32 + Arduino for real-world deployment |
 | 🔍 | **Fraud Detection System** | Developed a privacy-aware ML fraud detection system focused on transaction analysis |
 | 📊 | **Sales Analytics** | Created a European Sales Dashboard delivering business insights from multi-region datasets |
-
+| 💾 | **Full-Stack Data Project** | Personal Finance Tracker using MongoDB + Python for end-to-end income/expense management |
 
 </div>
 
