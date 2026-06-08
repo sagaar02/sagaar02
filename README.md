@@ -92,13 +92,9 @@ class Sagaar:
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sagaar02&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</div>
 
----
+
 
 ## 🏆 Trophy Wall
 
